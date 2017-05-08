@@ -3,3 +3,5 @@ Samsung
 shirts
 microwave
 ninja
+mario
+junior
